@@ -1,0 +1,8 @@
+﻿Group: ExternalAuth methods
+FriendlyName: VK authentication
+SystemName: ExternalAuth.VK
+Version: 1.0.0
+SupportedVersions: 3.90
+Author: @rtM00
+DisplayOrder: 10
+FileName: Nop.Plugin.ExternalAuth.VK.dll

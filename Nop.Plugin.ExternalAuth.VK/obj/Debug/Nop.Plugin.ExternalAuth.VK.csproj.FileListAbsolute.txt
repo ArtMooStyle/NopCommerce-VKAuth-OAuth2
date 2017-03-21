@@ -1,0 +1,36 @@
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\web.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Content\Images\vk-signing.png
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Content\vkstyles.css
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\ExternalAuthVK\Configure.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\ExternalAuthVK\PublicInfo.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\logo.jpg
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Description.txt
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.dll.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.dll
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.pdb
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.csproj.App.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.csprojResolveAssemblyReference.cache
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Content\Images\vk-signing.png
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Content\vkstyles.css
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\web.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Views\ExternalAuthVK\Configure.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Views\ExternalAuthVK\PublicInfo.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\logo.jpg
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Description.txt
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.dll.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.dll
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.pdb
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.dll
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.pdb
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\web.config
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Views\ExternalAuthVK\Configure.cshtml
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Views\ExternalAuthVK\PublicInfo.cshtml
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\logo.jpg
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Description.txt
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.dll.config
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.dll
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Presentation\Nop.Web\Plugins\ExternalAuth.VK\Nop.Plugin.ExternalAuth.VK.pdb
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.csproj.App.config
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.csprojResolveAssemblyReference.cache
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.dll
+C:\Users\SAAN\Documents\Visual Studio 2015\Projects\Nopcommerce\Plugins\Nop.Plugin.ExternalAuth.VK\obj\Debug\Nop.Plugin.ExternalAuth.VK.pdb

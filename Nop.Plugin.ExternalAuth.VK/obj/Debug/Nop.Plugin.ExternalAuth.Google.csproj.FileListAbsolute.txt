@@ -1,0 +1,14 @@
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\Nop.Plugin.ExternalAuth.Google.csproj.App.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\Nop.Plugin.ExternalAuth.Google.csprojResolveAssemblyReference.cache
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\web.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\ExternalAuthGoogle\Configure.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Views\ExternalAuthGoogle\PublicInfo.cshtml
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Content\googlestyles.css
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Content\Images\google-signing.png
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Description.txt
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\logo.jpg
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.dll.config
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.dll
+D:\_work_web\2_active\HarmanJBL\03 webdev\Presentation\Nop.Web\Plugins\ExternalAuth.Google\Nop.Plugin.ExternalAuth.Google.pdb
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\Nop.Plugin.ExternalAuth.Google.dll
+D:\_work_web\2_active\HarmanJBL\03 webdev\Plugins\Nop.Plugin.ExternalAuth.Google\obj\Debug\Nop.Plugin.ExternalAuth.Google.pdb

@@ -1,0 +1,7 @@
+﻿@using Nop.Web.Framework.UI
+@{
+    Layout = "";
+
+
+}
+<a href="@Url.RouteUrl("Plugin.ExternalAuth.VK.Login", new { ReturnUrl = HttpContext.Current.Request.QueryString["ReturnUrl"] })" class="button-1 login-button">VK sing in</a>
