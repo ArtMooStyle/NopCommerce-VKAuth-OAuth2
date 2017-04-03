@@ -63,7 +63,7 @@ namespace Nop.Plugin.ExternalAuth.VK.OAuth2
                 {
                     return reader.ReadToEnd().Trim();
                 }
-            }           
+            }
         }
 
         public static string HttpGet(string URI, string Parameters)
